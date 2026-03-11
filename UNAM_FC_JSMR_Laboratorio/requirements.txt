@@ -1,0 +1,9 @@
+
+#pip install -r requirements.txt
+streamlit>=1.30.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Instalamos la librería local en modo editable
+-e .
